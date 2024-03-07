@@ -1,0 +1,10 @@
+edu/bu/met/cs665/Main.class
+edu/bu/met/cs665/customer/BusinessCustomer.class
+edu/bu/met/cs665/CustomerFactory.class
+edu/bu/met/cs665/customer/NewCustomer.class
+edu/bu/met/cs665/EmailSender.class
+edu/bu/met/cs665/customer/ReturningCustomer.class
+edu/bu/met/cs665/customer/Customer.class
+edu/bu/met/cs665/customer/FrequentCustomer.class
+edu/bu/met/cs665/customer/Constants.class
+edu/bu/met/cs665/customer/VipCustomer.class
